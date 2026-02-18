@@ -8,7 +8,7 @@ It integrates **Blockchain technology (SHA-256 hashing)** for immutable vote rec
 The system simulates a complete election ecosystem including Voters, Candidates, Booth Officers, and the Election Commission, demonstrating how decentralized and cryptographic systems can strengthen democratic processes.
 
 ---
-
+    
 ## 🚀 Key Features
 
 ### 🔐 Security & Integrity
