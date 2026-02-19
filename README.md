@@ -1,6 +1,6 @@
 # BharatVotes 🗳️🇮🇳
 
-## Secure Blockchain & Biometric-Based Voting Platform
+## Secure Blockchain & Biometric-Based Voting Platform.   
 
 **BharatVotes** is a secure, transparent, and modern digital voting platform built using **Python (Flask)**.  
 It integrates **Blockchain technology (SHA-256 hashing)** for immutable vote recording and **Face Recognition-based biometric authentication** for secure voter verification.
