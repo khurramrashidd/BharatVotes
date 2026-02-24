@@ -6,7 +6,7 @@ class BlockchainUtils:
     @staticmethod
     def calculate_hash(index, previous_hash, candidate_id, timestamp, nonce):
         """
-        Creates a SHA-256 hash of the block content.
+        Creates a SHA-256 hash of the block content. 
         """
         # Ensure consistent string representation
         value = str(index) + str(previous_hash) + str(candidate_id) + str(timestamp) + str(nonce)
